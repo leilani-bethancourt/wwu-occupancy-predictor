@@ -127,9 +127,9 @@ Then open `notebooks/01_eda.ipynb` to start.
 
 ## Author
 
-**[Your Name]**  
+**Leilani Bethancourt**  
 B.S. Computer Science / Mathematics — Western Washington University  
-[LinkedIn] · [GitHub] · [Email]
+[LinkedIn](https://www.linkedin.com/in/leilani-bethancourt-166826315) · [GitHub](https://github.com/leilani-bethancourt) · [leibethancourt@gmail.com](mailto:leibethancourt@gmail.com)
 
 ---
 
